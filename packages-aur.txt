@@ -1,0 +1,15 @@
+acarsdec
+ascii-image-converter
+bb
+browsh-bin
+clipman
+dmscripts-git
+googler
+js-beautify
+mkinitcpio-openswap
+no-more-secrets
+oneko
+python2-pyxdg
+rig
+surf
+wordgrinder
