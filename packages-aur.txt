@@ -10,6 +10,7 @@ gtkhash-nautilus
 gtkhash-nemo
 gtkhash-peony
 gtkhash-thunar
+gzdoom
 js-beautify
 mkinitcpio-openswap
 no-more-secrets
@@ -27,4 +28,5 @@ themix-icons-suru-plus-aspromauros-git
 themix-icons-suru-plus-git
 themix-theme-materia-git
 themix-theme-oomox-git
+vim-plug
 wordgrinder
