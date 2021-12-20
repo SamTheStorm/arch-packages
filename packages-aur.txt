@@ -18,6 +18,7 @@ no-more-secrets
 oneko
 python2-pyxdg
 rig
+spotify-adblock
 surf
 themix-export-spotify-git
 themix-gui-git

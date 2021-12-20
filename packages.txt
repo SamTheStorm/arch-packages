@@ -11,6 +11,7 @@ alsa-lib
 alsa-plugins
 alsa-utils
 apache
+appimagelauncher
 appstream
 arandr
 arc-darkest-theme-git
@@ -22,6 +23,8 @@ arch-wiki-lite
 archiso
 arcolinux-alacritty-git
 arcolinux-arc-kde
+arcolinux-arc-themes-2021-creative-git
+arcolinux-arc-themes-2021-sky-git
 arcolinux-arc-themes-git
 arcolinux-bin-git
 arcolinux-candy-beauty-git
@@ -47,6 +50,7 @@ arcolinux-meta-logout
 arcolinux-meta-samba
 arcolinux-meta-sddm-themes
 arcolinux-meta-utilities
+arcolinux-mint-y-icons-git
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
 arcolinux-paleofetch-git
@@ -57,6 +61,7 @@ arcolinux-plank-themes-git
 arcolinux-qt5-git
 arcolinux-reflector-simple-git
 arcolinux-root-git
+arcolinux-sddm-backgrounds-git
 arcolinux-sddm-chili-git
 arcolinux-sddm-fralonra-git
 arcolinux-sddm-futuristic-git
@@ -74,6 +79,8 @@ arcolinux-termite-themes-git
 arcolinux-tweak-tool-git
 arcolinux-variety-autostart-git
 arcolinux-variety-git
+arcolinux-wallpapers-candy-git
+arcolinux-wallpapers-dual-git
 arcolinux-wallpapers-git
 arcolinux-welcome-app-git
 arcolinux-xfce-git
@@ -173,7 +180,7 @@ elementary-icon-theme
 elinks
 emacs
 enpass-bin
-espeak
+espeak-ng
 etcher-bin
 ethtool
 evince
@@ -277,9 +284,11 @@ jfsutils
 jq
 jshon
 jsoncpp
+kazam
 kdenlive
 keepassxc
 kitty
+krita
 ktorrent
 kvantum-qt5
 laptop-detect
@@ -312,6 +321,7 @@ lxappearance
 lxsession
 lxterminal
 m4
+mailspring
 maim
 make
 man-db
@@ -333,6 +343,7 @@ mobile-broadband-provider-info
 modemmanager
 moka-icon-theme-git
 mousepad
+mousetweaks
 mpc
 mpd
 mtools
@@ -355,6 +366,7 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 newsboat
+nextcloud-client
 nfs-utils
 nilfs-utils
 nitrogen
@@ -441,7 +453,30 @@ rp-pppoe
 rsync
 rxvt-unicode
 rxvt-unicode-terminfo
+sardi-colora-variations-icons-git
+sardi-flat-colora-variations-icons-git
+sardi-flat-mint-y-icons-git
+sardi-flat-mixing-icons-git
+sardi-flexible-colora-variations-icons-git
+sardi-flexible-luv-colora-variations-icons-git
+sardi-flexible-mint-y-icons-git
+sardi-flexible-mixing-icons-git
+sardi-flexible-variations-icons-git
+sardi-ghost-flexible-colora-variations-icons-git
+sardi-ghost-flexible-mint-y-icons-git
+sardi-ghost-flexible-mixing-icons-git
+sardi-ghost-flexible-variations-icons-git
 sardi-icons
+sardi-mint-y-icons-git
+sardi-mixing-icons-git
+sardi-mono-colora-variations-icons-git
+sardi-mono-mint-y-icons-git
+sardi-mono-mixing-icons-git
+sardi-mono-numix-colora-variations-icons-git
+sardi-mono-papirus-colora-variations-icons-git
+sardi-orb-colora-mint-y-icons-git
+sardi-orb-colora-mixing-icons-git
+sardi-orb-colora-variations-icons-git
 sc
 scour
 scrcpy
@@ -476,6 +511,8 @@ sublime-text-4
 sudo
 surfn-icons-git
 surfn-mint-y-icons-git
+sweet-gtk-theme-dark
+sweet-theme-git
 sxiv
 syslinux
 system-config-printer
@@ -490,10 +527,10 @@ the_platinum_searcher-bin
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunderbird
-tidy
 tigervnc
 timeshift
 timeshift-autosnap
+tldr
 tlp
 tmux
 tor-browser
@@ -597,7 +634,6 @@ xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-qxl
 xf86-video-vesa
-xf86-video-vmware
 xfburn
 xfce4-artwork
 xfce4-battery-plugin
