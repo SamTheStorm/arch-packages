@@ -78,7 +78,7 @@ import XMonad.Util.SpawnOnce
       -- SolarizedDark
       -- SolarizedLight
       -- TomorrowNight
-import Colors.DoomOne
+import Colors.Dracula
 
 myFont :: String
 myFont = "xft:SauceCodePro Nerd Font Mono:regular:size=9:antialias=true:hinting=true"
@@ -369,8 +369,8 @@ myKeys =
 
     -- KB_GROUP Run Prompt
       --  , ("M-S-<Return>", spawn "dmenu_run -i -p \"Run: \"") -- Dmenu
-        , ("C-<Tab>", spawn "rofi -show window") -- Rofi
-        , ("M-S-<Return>", spawn "rofi -show combi -combi-modi window,run,ssh,keys,combi,windowcd,drun,filebrowser -modi combi -i -p \"Run: \"") -- Rofi 
+        , ("C-<Tab>", spawn "rofi -modi window,run,ssh,keys,windowcd,drun,filebrowser -show run") -- Rofi
+        , ("M-S-<Return>", spawn "rofi -show combi -combi-modi window,run,ssh,keys,windowcd,drun,filebrowser -modi combi -i -p \"Run: \"") -- Rofi 
 
     -- KB_GROUP Other Dmenu Prompts
     -- In Xmonad and many tiling window managers, M-p is the default keybinding to
