@@ -368,6 +368,7 @@ myKeys =
         , ("M-/", spawn "dtos-help")                  -- DTOS help/tutorial videos
 
     -- KB_GROUP Run Prompt
+      --  , ("M-S-<Return>", spawn "dmenu_run -c -bw 2 -l 20 -g 1 ") -- Dmenu
       --  , ("M-S-<Return>", spawn "dmenu_run -i -p \"Run: \"") -- Dmenu
         , ("C-<Tab>", spawn "rofi -modi window,run,ssh,keys,windowcd,drun,filebrowser -show run") -- Rofi
         , ("M-S-<Return>", spawn "rofi -show combi -combi-modi window,run,ssh,keys,windowcd,drun,filebrowser -modi combi -i -p \"Run: \"") -- Rofi 
