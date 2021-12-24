@@ -16,7 +16,7 @@ js-beautify
 mkinitcpio-openswap
 no-more-secrets
 oneko
-python-pyxdg
+python2-pyxdg
 rig
 spotify-adblock
 surf

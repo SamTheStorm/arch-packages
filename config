@@ -14,8 +14,8 @@ DMENU="rofi -dmenu"
 DMBROWSER="firefox"
 # DMBROWSER="qutebrowser"
 
-DMTERM="st -e"
-# DMTERM="alacritty -e"
+# DMTERM="st -e"
+ DMTERM="alacritty -e"
 
 DMEDITOR="emacsclient -c -a emacs"
 # DMEDITOR="${DMTERM} vim"
@@ -176,7 +176,8 @@ websearch[stackoverflow]="https://stackoverflow.com/search?q="
 # Syntax: youtube_channels[name]="https://www.youtube.com/link/to/channel"
 
 declare -A youtube_channels
-youtube_channels[distrotube]="https://www.youtube.com/c/DistroTube/featured"
+youtube_channels[distrotube]="https://www.youtube.com/c/distrotube/videos"
+youtube_channels[erik dubois]="https://www.youtube.com/c/erikdubois/videos"
 
 # dm-colpick config
 declare -A colpick_list
@@ -201,13 +202,13 @@ colpick_list[purple]="#bd9cf9"
 # If you want to get away from Google and/or want a fully free software implementation you should use LibreTranslate.
 # The choice is yours...
 translate_service="libre"
-# translate_service="lingva"
+translate_service="lingva"
 libretranslate_instance="https://libretranslate.de"
 lingva_instance="https://lingva.ml"
 
 # Uncomment to manually set the languages dm-translate will show
 # LibreTranslate languages:
-#   - `curl -Ss "https://libretranslate.de/languages" | jq`
+#  - `curl -Ss "https://libretranslate.de/languages" | jq`
 # Lingva Translate languages:
 #   - `curl -Ss "https://lingva.ml/api/v1/languages/source" | jq`
 # translate_list="manual"
@@ -218,10 +219,24 @@ lingva_instance="https://lingva.ml"
 
 # dm-weather config
 declare -A weather_location
-# weather_location[New York]="New+York"
-# weather_opts="m" # Always use metric units (celsius)
+ weather_location[New Delhi]="New+Delhi"
+ weather_location[New York]="New+York"
+ weather_location[Moscow]="Moscow"
+ weather_location[Tokyo]="Tokyo"
+ weather_location[Oslo]="Oslo"
+ weather_location[Abu Dhabi]="Abu+Dhabi"
+ weather_location[Copenhagen]="Copenhagen"
+ weather_location[Paris]="Paris"
+ weather_location[Lisbon]="Lisbon"
+ weather_location[Stockholm]="Stockholm"
+ weather_location[Ottawa]="Ottawa"
+ weather_location[Warsaw]="Warsaw"
+ weather_location[Madrid]="Madrid"
+ weather_location[Rome]="Rome"
+ weather_location[London]="London"
+ weather_opts="m" # Always use metric units (celsius)
 # weather_opts="u" # Always use US units (fahrenheit)
-# see: https://github.com/chubin/wttr.in
+#  see: https://github.com/chubin/wttr.in
 
 # dm-currencies config
 

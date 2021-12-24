@@ -370,7 +370,7 @@ myKeys =
     -- KB_GROUP Run Prompt
       --  , ("M-S-<Return>", spawn "dmenu_run -c -bw 2 -l 20 -g 1") -- Dmenu
       --  , ("M-S-<Return>", spawn "dmenu_run -i -p \"Run: \"") -- Dmenu
-        , ("C-<Tab>", spawn "rofi -modi window,run,ssh,windowcd,drun,combi,keys,filebrowser -show window") -- Rofi
+        , ("C-<Tab>", spawn "rofi -modi window,run,ssh,windowcd,drun,combi,keys,filebrowser,calc -show window") -- Rofi
         , ("M-S-<Return>", spawn "rofi -show combi -combi-modi window,run,ssh,windowcd,drun,keys,filebrowser -modi combi") -- Rofi 
 
     -- KB_GROUP Other Dmenu Prompts
