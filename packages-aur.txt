@@ -5,12 +5,6 @@ browsh-bin
 clipman
 espeak
 googler
-gtkhash
-gtkhash-caja
-gtkhash-nautilus
-gtkhash-nemo
-gtkhash-peony
-gtkhash-thunar
 gzdoom
 js-beautify
 mkinitcpio-openswap
@@ -18,6 +12,7 @@ no-more-secrets
 oneko
 python2-pyxdg
 rig
+rofi-top-git
 spotify-adblock
 surf
 themix-export-spotify-git

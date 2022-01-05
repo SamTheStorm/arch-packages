@@ -115,9 +115,11 @@ bluez-utils
 boost-libs
 bpython
 brave-bin
+brightnessctl
 broadcom-wl
 btrfs-progs
 cabal-install
+calibre
 capitaine-cursors
 catfish
 celluloid
@@ -290,7 +292,7 @@ keepassxc
 kitty
 krita
 ktorrent
-kvantum-qt5
+kvantum
 laptop-detect
 less
 libcups
@@ -304,6 +306,7 @@ libreoffice-fresh
 libtool
 libusb-compat
 libxft-bgra
+light
 linux
 linux-atm
 linux-firmware
@@ -448,7 +451,6 @@ reflector
 reiserfsprogs
 ripgrep
 ristretto
-rofi
 rofi-calc
 rp-pppoe
 rsync
@@ -537,6 +539,7 @@ tmux
 tor-browser
 torbrowser-launcher
 tpm2-tss
+trash-cli
 trayer
 tree
 ttf-anonymous-pro
@@ -589,6 +592,7 @@ urxvt-resize-font-git
 usb_modeswitch
 usbmuxd
 usbutils
+ventoy-bin
 veracrypt
 vim
 virtualbox
