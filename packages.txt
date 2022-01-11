@@ -278,6 +278,7 @@ imagemagick
 inkscape
 intltool
 inxi
+iptables-nft
 ipw2100-fw
 ipw2200-fw
 irssi
@@ -441,6 +442,7 @@ python-pyparted
 python-pywal
 qalculate-gtk
 qbittorrent
+qemu
 qt5-examples
 qt5-webkit
 qt5ct
@@ -501,7 +503,7 @@ snap-pac
 snap-sync
 snapper-rollback
 sof-firmware
-speedtest-cli-git
+speedtest-cli
 splix
 spotify
 squashfs-tools
@@ -595,6 +597,7 @@ usbutils
 ventoy-bin
 veracrypt
 vim
+virt-manager
 virtualbox
 visual-studio-code-bin
 vivaldi-ffmpeg-codecs
