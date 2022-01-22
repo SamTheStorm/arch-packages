@@ -296,6 +296,9 @@ ktorrent
 kvantum
 laptop-detect
 less
+lib32-mesa
+lib32-vulkan-icd-loader
+lib32-vulkan-intel
 libcups
 libdvdcss
 libfido2
@@ -320,6 +323,7 @@ lollypop
 lsb-release
 lshw
 lsscsi
+lutris
 lvm2
 lxappearance
 lxsession
@@ -605,6 +609,7 @@ vivaldi-widevine
 vlc
 volumeicon
 vpnc
+vulkan-intel
 w3m
 webkit2gtk
 wget
