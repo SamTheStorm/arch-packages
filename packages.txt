@@ -131,7 +131,6 @@ clonezilla
 cmake
 cmus
 conky-lua-archers
-crda
 cronie
 cryptsetup
 cups
@@ -260,7 +259,6 @@ gvfs-smb
 gzip
 halo-icons-git
 hardcode-fixer-git
-hardinfo
 hddtemp
 hdparm
 hexchat
@@ -405,7 +403,6 @@ oxy-neon
 p7zip
 packer
 pacman
-pamac-all
 pandoc
 paper-icon-theme
 papirus-icon-theme
@@ -446,7 +443,6 @@ python-pyparted
 python-pywal
 qalculate-gtk
 qbittorrent
-qemu
 qt5-examples
 qt5-webkit
 qt5ct
@@ -511,7 +507,6 @@ speedtest-cli
 splix
 spotify
 squashfs-tools
-st-distrotube-git
 stacer
 stack
 starship
